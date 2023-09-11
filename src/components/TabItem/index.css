@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.button {
+  border-width: 0;
+  font-size: 20px;
+  font-family: 'Roboto';
+  outline: none;
+  cursor: pointer;
+  color: #7b8794;
+  box-shadow: 1px 1px 1px 1px transparent;
+  padding: 10px;
+}
+.active-button {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
